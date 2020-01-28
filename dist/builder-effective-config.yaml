@@ -1,0 +1,8 @@
+directories:
+  output: dist
+  buildResources: build
+appId: electronUpdateTest
+publish:
+  provider: github
+  token: <stripped sensitive data>
+electronVersion: 7.1.10

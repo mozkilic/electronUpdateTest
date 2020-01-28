@@ -1,0 +1,5 @@
+owner: mozkilic
+repo: electronUpdateTest
+provider: github
+token: 0e848503f8009a35609bc41b6c29f370630b955d
+updaterCacheDirName: electron-quick-start-updater
