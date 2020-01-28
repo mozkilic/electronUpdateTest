@@ -6,7 +6,10 @@
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mozkilic/electronUpdateTest.git"
+  },
   "keywords": [
     "Electron",
     "quick",
@@ -17,6 +20,12 @@
   "author": "GitHub",
   "license": "CC0-1.0",
   "devDependencies": {
-    "electron": "^7.1.10"
-  }
+    "electron": "^7.1.10",
+    "electron-builder": "^22.3.2"
+  },
+  "dependencies": {
+    "electron-updater": "^4.2.0"
+  },
+  "build": "electron-builder build --win --publish never",
+  "deploy": "electron-builder build --win --publish always"
 }
