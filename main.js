@@ -1,5 +1,5 @@
 // Modules to control application life and create native browser window
-const {app, BrowserWindow, ipcMain} = require('electron')
+const { app, BrowserWindow, ipcMain } = require('electron')
 const path = require('path')
 const { autoUpdater } = require('electron-updater');
 
@@ -7,7 +7,7 @@ const { autoUpdater } = require('electron-updater');
 // be closed automatically when the JavaScript object is garbage collected.
 let mainWindow
 
-function createWindow () {
+function createWindow() {
   // Create the browser window.
   mainWindow = new BrowserWindow({
     width: 800,
@@ -32,7 +32,7 @@ function createWindow () {
     mainWindow = null
   })
 
-  autoUpdater.checkForUpdatesAndNotify();
+  autoUpdater.checkForUpdatesAndNotify()
 }
 
 // This method will be called when Electron has finished
