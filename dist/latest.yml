@@ -1,8 +1,8 @@
-version: 1.0.2
+version: 1.0.4
 files:
-  - url: electronUpdateTest-Setup-1.0.2.exe
-    sha512: 3tTSuRwOrJKl/PcAKRRBs7V4KC/i8o9zR+lF+xXU3i39hL5VMHOiwPNqISUNG91FYkHcjmcfzBsUlxBPe61Tow==
-    size: 45036925
-path: electronUpdateTest-Setup-1.0.2.exe
-sha512: 3tTSuRwOrJKl/PcAKRRBs7V4KC/i8o9zR+lF+xXU3i39hL5VMHOiwPNqISUNG91FYkHcjmcfzBsUlxBPe61Tow==
-releaseDate: '2020-01-29T07:28:49.687Z'
+  - url: electronUpdateTest-Setup-1.0.4.exe
+    sha512: 6okBW5gmlvAGz8GYvv3D0cFR4agY39w598EfivAUMH0n2N4SyLy3NlENnygxObjQxLWf4xadgmjWC9k+Gdn9ZQ==
+    size: 45036868
+path: electronUpdateTest-Setup-1.0.4.exe
+sha512: 6okBW5gmlvAGz8GYvv3D0cFR4agY39w598EfivAUMH0n2N4SyLy3NlENnygxObjQxLWf4xadgmjWC9k+Gdn9ZQ==
+releaseDate: '2020-01-29T13:19:08.046Z'
