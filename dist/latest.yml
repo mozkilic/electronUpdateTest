@@ -1,8 +1,8 @@
 version: 1.0.1
 files:
-  - url: electron-quick-start-Setup-1.0.1.exe
-    sha512: 5UfExZfJeFloaoxOIB/j3vb+QIVvuYZvFLAUT/o7wA8fy5BhFRCkFbso49ddWvK/RetPoe8nwdLba5QG7m1gHw==
-    size: 45036882
-path: electron-quick-start-Setup-1.0.1.exe
-sha512: 5UfExZfJeFloaoxOIB/j3vb+QIVvuYZvFLAUT/o7wA8fy5BhFRCkFbso49ddWvK/RetPoe8nwdLba5QG7m1gHw==
-releaseDate: '2020-01-29T07:10:47.359Z'
+  - url: electronUpdateTest-Setup-1.0.1.exe
+    sha512: fuY4E8OhyiVJgEfxNlOnUdJrXaTd2l+v00/ZDP8bRDnCdRXI1YIUwugjNipZXlB/gEuL9zNWuTAPJl1gO3mpSw==
+    size: 45036791
+path: electronUpdateTest-Setup-1.0.1.exe
+sha512: fuY4E8OhyiVJgEfxNlOnUdJrXaTd2l+v00/ZDP8bRDnCdRXI1YIUwugjNipZXlB/gEuL9zNWuTAPJl1gO3mpSw==
+releaseDate: '2020-01-29T07:15:19.667Z'

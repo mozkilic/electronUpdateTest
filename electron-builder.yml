@@ -1,4 +1,4 @@
 appId: electronUpdateTest
 publish:
   provider: github
-  token: 0aa87b6669ecc98d99d6366ea6acf60b8b8f78f8
+  token: b285584dd140c8b09c08b8cbb261f8ee873b08bf
