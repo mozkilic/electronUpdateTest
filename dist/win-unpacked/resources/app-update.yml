@@ -1,5 +1,5 @@
 owner: mozkilic
 repo: electronUpdateTest
 provider: github
-token: fc22588c16686ef167eca2269d8d665320d7d74a
+token: 99825c350c5310b19b6bda4284409e1d80ef3343
 updaterCacheDirName: electronupdatetest-updater

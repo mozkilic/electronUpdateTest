@@ -32,7 +32,7 @@ function createWindow() {
     mainWindow = null
   })
 
-  autoUpdater.checkForUpdatesAndNotify()
+  autoUpdater.checkForUpdates()
 }
 
 // This method will be called when Electron has finished
